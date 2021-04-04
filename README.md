@@ -1,3 +1,8 @@
+# mducng
+
+https://vnoi.info/wiki/algo/graph-theory/Depth-First-Search-Tree.md?fbclid=IwAR1jODKf6eOEJJAKQJjCQ3TtL3Gegely52SmMDqBmDFryVeWg_mNO9TpgN0
+
+
 # Algorithms explanation
 
 [![Gitter chat](https://img.shields.io/badge/Chat-Gitter-ff69b4.svg?label=Chat&logo=gitter&style=flat-square)](https://gitter.im/TheAlgorithms)&nbsp;
